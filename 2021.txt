@@ -1,0 +1,22 @@
+* clearer grading scheme (every point is accounted for)
+
+* Part 0
+   * short quiz to see where people are at, so they can be grouped together
+
+* Part I
+   * give better examples
+   * reproducibility of a paper?
+   * overleaf / latex (so it's set up during the lecture)
+   * make sure they collaborate!
+
+Part II
+   * git session (so it's set up during the lecture)
+   * grade II and III together
+
+* Part III
+   * explain the anatomy of a paperw
+     > many didn't know what goes in an introduction etc.
+   * make them hand in the paper for review!
+
+* Part IV
+   * bring examples of good / bad posters
